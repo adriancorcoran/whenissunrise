@@ -1,9 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = 'whenissunrise'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.date        = '2018-08-12'
   s.summary     = "When is Sunrise?!"
-  s.description = "A simple gem to get the local sunrise time using the machines clock"
+  s.description = "A simple gem to get the local sunrise and sunset time using inputted latitude and longitude"
   s.authors     = ["Adrian Corcoran"]
   s.email       = 'adrian.corcoran@shopify.com'
   s.files       = ["lib/whenissunrise.rb"]

@@ -9,7 +9,7 @@ Run `gem install whenissunrise`
 1. Clone the repo
 2. `cd` to the root folder and run the following commands
  * `gem build whenissunrise.gemspec`
- *  `gem install whenissunrise-0.0.2.gem`
+ * `gem install whenissunrise-0.0.3.gem`
 
 ## To use the gem
 You can then use the gem in IRB by running:
